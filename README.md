@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=adnan-bin-abdul-khaleque)
 # Hi, I'm Adnan 👋  
 
 🎓 EEE Graduate | 📊 Aspiring Data Analyst | 🤖 ML Enthusiast  
