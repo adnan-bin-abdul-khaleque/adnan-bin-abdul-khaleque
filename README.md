@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=adnan-bin-abdul-khaleque)
 # Hi, I'm Adnan 👋  
 
 🎓 EEE Graduate | 📊 Aspiring Data Analyst | 🤖 ML Enthusiast  
@@ -27,7 +26,7 @@ My journey into data started with research on time-series forecasting and energy
 - Analyzed delivery performance, customer satisfaction, and revenue trends  
 - Discovered insights on delivery time vs ratings  
 
-### 🔹 Sales Performance Dashboard (Tableau)
+### 🔹 Sales Performance Dashboard (Microsoft Excel)
 - Created KPI dashboards with trend analysis  
 - Enabled business performance monitoring  
 
@@ -44,7 +43,7 @@ My journey into data started with research on time-series forecasting and energy
 ## 🛠 Tech Stack
 - Power BI | Tableau  
 - SQL | Python  
-- Excel | Data Visualization  
+- Microsoft Excel | Data Visualization  
 - Machine Learning | Time Series Forecasting  
 
 ---
